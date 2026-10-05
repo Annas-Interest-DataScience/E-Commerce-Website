@@ -1,1 +1,1 @@
-//all files related to server are here 
+//In this file we check server CI CD pipeline
